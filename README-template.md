@@ -62,4 +62,5 @@ A neewbie from Nigeria,
 ## Acknowledgments
 
 As a newbie who has beenn insearch for some mentorship, I am so happy I found a site like the [frontendmentor](https://www.frontendmentor.io/home)
+please give me a feed back what do yo think about my solution.
 
